@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5aeefe7013e28bc49b8c281843c0be47
+  - enabled: 1
     path: Assets/Scenes/GameSolo.unity
     guid: a8f0b941d33b13b43914e151e7d78dcd
   - enabled: 1
@@ -14,9 +17,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RhytmeGame.unity
     guid: d47a71778033f3a44bc1844d3d507d2c
-  - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: 5aeefe7013e28bc49b8c281843c0be47
   - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: 3ea5d1817540b2343a9e75d6f4be3c3b

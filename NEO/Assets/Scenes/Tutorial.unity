@@ -423,10 +423,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 3840, y: 2160}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -3603,6 +3603,7 @@ MonoBehaviour:
   - {fileID: 1484348243}
   shieldSprite: {fileID: -265557616, guid: ffaca192e26be254da4734434c0c63f4, type: 3}
   laserSprite: {fileID: 807602977, guid: 9336deb037ae9f7439e706e93618cb1d, type: 3}
+  confusionSprite: {fileID: 0}
   bulletTimeSprite: {fileID: -716959729, guid: 4d0a78a87c2a54e4e8c64ab027bae941, type: 3}
   emptySlotSprite: {fileID: -421793313, guid: 0f1170ae8c2660a4fbf72c6cb1d92758, type: 3}
 --- !u!4 &1844195631
